@@ -4,7 +4,9 @@
     <projectFile>APBD-Cw2-s34124.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83dcf86d-2a3f-4fa9-a20c-2a8b374d95a5" name="Changes" comment="" />
+    <list default="true" id="83dcf86d-2a3f-4fa9-a20c-2a8b374d95a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.APBD-Cw2-s34124/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APBD-Cw2-s34124/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="services" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -163,6 +165,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="dodalem model usera." />
@@ -173,7 +186,8 @@
     <MESSAGE value="dodanie interfesju konsolowego" />
     <MESSAGE value="Dodanie readme" />
     <MESSAGE value="Dodanie opisu repo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie opisu repo." />
+    <MESSAGE value="workplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workplace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
